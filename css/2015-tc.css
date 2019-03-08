@@ -152,15 +152,15 @@ body {
   white-space: nowrap;
   text-indent: 100%;
   background-size: 288px 67px;
-  background: transparent url("../img/sprites/tc/D2D-mrn-blk.png") 0 0 no-repeat;
+  background: transparent url("../img/sprites/tc/D2D-mrn-blk-orig.png") 0 0 no-repeat;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 192dpi) {
   #umnhf-h-logo {
-    background: transparent url("../img/sprites/tc/D2D-mrn-blk@2x.png") 0 0 no-repeat;
+    background: transparent url("../img/sprites/tc/D2D-mrn-blk@2x-orig.png") 0 0 no-repeat;
     background-size: 288px auto;
   }
 }
-#umnhf-h-logo-orig {
+#umnhf-h-logo-2 {
   display: block;
   float: left;
   overflow: hidden;
@@ -170,11 +170,11 @@ body {
   white-space: nowrap;
   text-indent: 100%;
   background-size: 288px 67px;
-  background: transparent url("../img/sprites/tc/D2D-mrn-blk-orig.png") 0 0 no-repeat;
+  background: transparent url("../img/sprites/tc/D2D-mrn-blk.png") 0 0 no-repeat;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 192dpi) {
-  #umnhf-h-logo-orig {
-    background: transparent url("../img/sprites/tc/D2D-mrn-blk@2x-orig.png") 0 0 no-repeat;
+  #umnhf-h-logo-2 {
+    background: transparent url("../img/sprites/tc/D2D-mrn-blk@2x.png") 0 0 no-repeat;
     background-size: 288px auto;
   }
 }
