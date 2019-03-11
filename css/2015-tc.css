@@ -301,7 +301,8 @@ body {
   }
 }
 @media (max-width: 775px) {
-  #umnhf-h-logo {
+  #umnhf-h-logo,
+  #umnhf-h-logo-2 {
     margin-left: 17px;
   }
   #umnhf-h-ql {
@@ -321,7 +322,8 @@ body {
     height: 35px;
     min-height: 50px;
   }
-  #umnhf-h-logo {
+  #umnhf-h-logo,
+  #umnhf-h-logo-2 {
     margin: 17px 0 0 17px;
   }
   #umnhf-h-cl, #umnhf-h-ql {
@@ -343,7 +345,8 @@ body {
     height: 50px;
     background-position: left bottom;
   }
-  #umnhf-h-logo {
+  #umnhf-h-logo,
+  #umnhf-h-logo-2 {
     display: block;
     background-position: 0 -38px;
     height: 29px;
