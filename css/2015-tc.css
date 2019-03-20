@@ -142,6 +142,7 @@ body {
   margin: 0 auto;
   background: #ffd75f;
 }
+.maroon#umnhf-h.umnhf,
 .maroon #umnhf-h-mast {
   background: #7a0019;
 }
@@ -398,7 +399,9 @@ body {
     background-position: left bottom;
   }
   #umnhf-h-logo,
-  #umnhf-h-logo-2 {
+  #umnhf-h-logo-2,
+  .maroon #umnhf-h-logo,
+  .maroon #umnhf-h-logo-2 {
     display: block;
     background-position: 0 -38px;
     height: 29px;
